@@ -21,4 +21,7 @@ end
 {% endhighlight %}
 </div>
 
+<div>I don't have social network accounts. But you can email me at</div>
+<p class="message">hamadeh.basel@gmail.com</p>
+
 
