@@ -8,6 +8,7 @@ title: About
 <p class="message">
   Hello citizens of the web. I'm Bas and I am here to exchange ideas with you.
 </p>
+Hello world !
 
 <div>
 {% highlight ruby %}
