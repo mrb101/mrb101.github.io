@@ -2,6 +2,7 @@
 layout: post
 title: "Why Starting a Blog Now"
 author: bas
+date: 2014-05-28 10:08:39 +02:00
 ---
 
 > Communication: The imparting or exchanging of information by speaking, writing, or using some other medium.<br />
@@ -22,3 +23,5 @@ author: bas
 <p>I decided to start a blog as I have came to a point where I am furstrated with all those social networks all over the place. To get to a point we have to communicate and the more tools we have the more complicated and monopolized they become. Privacy Issues, Security, Owner ship, time consuming, Different settings, Too many passwords, and a lot more issues. But what concerns me the most is the fact that we have almost reached a point where communication through those technologies will end "real-life" face to face communication.</p>
 
 <p>The solution in my case is the ultimate and proven excelent method. a Blog. accompanied by my eMail. Here I will share a little of my thoughts and a lot of Technology related topics.</p>
+
+
