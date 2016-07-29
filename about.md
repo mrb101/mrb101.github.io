@@ -17,7 +17,7 @@ class Bas(Human, Syrian)
     current_location = 'Kuala__Lumpur'
     job = 'IT Student'
     interest = [Technology, Nature]
-    hobbies = [Beer, Fishing, Coding, Building stuff, Socializing]
+    hobbies = [Beer, Coding, Building stuff, Socializing]
 {% endhighlight %}
 </div>
 
