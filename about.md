@@ -11,14 +11,13 @@ title: About
 Hello world !
 
 <div>
-{% highlight ruby %}
-def bas
-  @name = 'Basel J. Hamadeh'
-  @current_location = 'Kuala__Lumpur'
-  @job = 'IT Student'
-  @interest = [Technology, Nature]
-  @hobbies = [Beer, Fishing, Coding, Building stuff, Socializing]
-end
+{% highlight python %}
+class Bas(Human, Syrian)
+    name = 'Basel J. Hamadeh'
+    current_location = 'Kuala__Lumpur'
+    job = 'IT Student'
+    interest = [Technology, Nature]
+    hobbies = [Beer, Fishing, Coding, Building stuff, Socializing]
 {% endhighlight %}
 </div>
 
