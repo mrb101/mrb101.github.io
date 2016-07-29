@@ -14,10 +14,17 @@ Hello world !
 {% highlight python %}
 class Bas(Human, Syrian)
     name = 'Basel J. Hamadeh'
+    dob = date(1984, 10, 14)
     current_location = 'Kuala__Lumpur'
-    job = 'IT Student'
+    job = 'Developer'
     interest = [Technology, Nature]
     hobbies = [Beer, Coding, Building stuff, Socializing]
+
+    def get_name(self):
+        return self.name
+
+    def get_dob(self):
+        return dob.isoformat()
 {% endhighlight %}
 </div>
 
